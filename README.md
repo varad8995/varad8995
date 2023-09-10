@@ -3,7 +3,7 @@
 
 - 🔭 I’m into **ML/DL**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **DJANGO**
 
 - 💬 Ask me about **Data**
 
