@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varad Bhalsing</h1>
 <h3 align="center">Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.</h3>
 
-- 🔭 I’m into **Python Devlopement**
+- 🔭 I’m into **Python Development**
 
 - 🌱 I’m currently learning **FASTAPIs**
 
