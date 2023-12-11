@@ -3,7 +3,7 @@
 
 - 🔭 I’m into **Python Development**
 
-- 🌱 I’m currently learning **FASTAPIs**
+- 🌱 I’m currently learning **FRONT END DEVELOPMENT**
 
 - 💬 Ask me about **Data**
 
