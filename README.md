@@ -3,7 +3,7 @@
 
 - 🔭 I’m into **Python Development**
 
-- 🌱 I’m currently learning **FRONT END DEVELOPMENT**
+- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
 
 - 💬 Ask me about **Data**
 
