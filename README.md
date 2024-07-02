@@ -7,7 +7,7 @@
 
 - 🔭 I’m into **ML/DL**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Data**
 
