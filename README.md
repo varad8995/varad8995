@@ -7,7 +7,7 @@
 
 - 🔭 I’m into **Gen Ai**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Generative Ai**
 
 - 💬 Ask me about **Data**
 
