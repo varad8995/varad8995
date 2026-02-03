@@ -6,14 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varad8995" alt="varad8995" /></a> </p>
 
 - 🔭 I’m into **Gen Ai**
-
 - 🌱 I’m currently learning **Generative Ai**
-
 - 💬 Ask me about **Data**
-
 - 📫 How to reach me **varadbhalsing71@gmail.com**
-- 
-- - 📝 Check out my blog: [**Prompt Writing Techniques**](https://decoding-ai-jargons-with-chaii.hashnode.dev/)  
+- 📝 Check out my blog: [**Prompt Writing Techniques**](https://decoding-ai-jargons-with-chaii.hashnode.dev/)  
 
 
 <h3 align="left">Connect with me:</h3>
